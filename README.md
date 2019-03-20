@@ -1,2 +1,3 @@
 # cr-camera-model
-camera model for Corner Raft
+Code to describe the LSST corner rafts and their sub-assemblies.
+
